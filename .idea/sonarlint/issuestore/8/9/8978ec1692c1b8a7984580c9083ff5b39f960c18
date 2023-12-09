@@ -1,0 +1,40 @@
+
+i
+java:S2095<"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(¯Ô½ğ8îºûîÄ1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(ª­ß’şÿÿÿÿ8®ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(²²Ôìÿÿÿÿÿ8¶ÉÆîÄ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ŸæËû8¶ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ÖÙ‰ùÿÿÿÿ8·ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ëÉ®ğúÿÿÿÿ8·ÉÆîÄ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ãÃ±Ä8·ÉÆîÄ1
+a
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Øªöp8·ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ğ°›Èıÿÿÿÿ8¸ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ã‰šãúÿÿÿÿ8¸ÉÆîÄ1
+b
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(µÂÂ²8¸ÉÆîÄ1
+]	java:S125"<This block of commented-out lines of code should be removed.(…ÕÎ¯ùÿÿÿÿ8¹ÉÆîÄ1
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(µ–è¯ÿÿÿÿÿ8¹ÉÆîÄ1
+L
+java:S2093:"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8„»ûîÄ1
+[
+java:S3400Y"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8ÆÉÆîÄ1
+G
+java:S1172X"*Remove this unused method parameter "url".(›„Òß8ÈÉÆîÄ1
+[
+java:S3400]"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8ÈÉÆîÄ1
+G
+java:S1172\"*Remove this unused method parameter "url".(ÌÌ´•8ÉÉÆîÄ1
+[
+java:S3400a"9Remove this method and declare a constant for this value.(Ö§”Óşÿÿÿÿ8ÉÉÆîÄ1
+N
+java:S1172`",Remove this unused method parameter "jsUrl".(À²°ûÿÿÿÿ8ÉÉÆîÄ1
