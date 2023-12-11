@@ -1,13 +1,10 @@
 <resources>
-<<<<<<< HEAD
-    <string name="app_name">MAD Gaming Slots</string>
+
+    <string name="app_name">AB Game Central</string>
     <string name="AppsFlyerID">7odVQ4PMGwVguGQABWe9hS</string>
     <string name="receive_notifications">Receive Notifications</string>
     <string name="location_permission">Location Permission</string>
     <string name="enable_ads">Enable ADs</string>
     <string name="save">Save</string>
     <string name="app_settings">App Settings</string>
-=======
-    <string name="app_name">AB Game Central</string>
->>>>>>> 521c356cc9f85cfc2074ed7d4a16aa1cb6d13b67
 </resources>

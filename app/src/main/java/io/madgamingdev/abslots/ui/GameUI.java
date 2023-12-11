@@ -1,22 +1,18 @@
 package io.madgamingdev.abslots.ui;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
 import android.webkit.ValueCallback;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 
-import com.google.gson.Gson;
+import androidx.appcompat.app.AppCompatActivity;
 
 import io.madgamingdev.abslots.R;
+import com.google.gson.Gson;
 import io.madgamingdev.abslots.codes.AppJSInterface;
 import io.madgamingdev.abslots.libs.BridgeWebView;
-import io.madgamingdev.abslots.libs.OnBridgeCallback;
 
 public class GameUI extends AppCompatActivity {
 

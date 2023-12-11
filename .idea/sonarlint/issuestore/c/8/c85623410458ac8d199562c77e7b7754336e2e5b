@@ -1,13 +1,13 @@
 
-m	java:S117&"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íõ¸¼8á©ïÄ1
-r	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öåøñùÿÿÿÿ8á©ïÄ1
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íõ¸¼8¥ ¬ÃÅ1
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öåøñùÿÿÿÿ8¦ ¬ÃÅ1
 R
-java:S18741"0Remove this use of "pickFile"; it is deprecated.(Â˜¦úÿÿÿÿ8È‘éğÄ1
+java:S1874-"0Remove this use of "pickFile"; it is deprecated.(Â˜¦úÿÿÿÿ8á ¬ÃÅ1
 R
-java:S18747"0Remove this use of "pickFile"; it is deprecated.(Â˜¦úÿÿÿÿ8È‘éğÄ1
+java:S18743"0Remove this use of "pickFile"; it is deprecated.(Â˜¦úÿÿÿÿ8ã ¬ÃÅ1
 R
-java:S1133F"5Do not forget to remove this deprecated code someday.(ÁŞıû8Ó‘éğÄ1
+java:S1133B"5Do not forget to remove this deprecated code someday.(ÁŞıû8ñ ¬ÃÅ1
 o
-java:S3776Y"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬¸Á8“¦ÂïÄ1
+java:S3776U"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¬¸Á8ù ¬ÃÅ1
 R
-java:S1133Y"5Do not forget to remove this deprecated code someday.(¬¸Á8•ĞçğÄ1
+java:S1133U"5Do not forget to remove this deprecated code someday.(¬¸Á8ù ¬ÃÅ1
